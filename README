@@ -1,0 +1,22 @@
+# Portfolio Optimization
+
+## Overview
+This project explores portfolio optimization using covariance matrices and modern portfolio theory. The main objective is to calculate the Global Minimum Variance Portfolio and understand the relationship between portfolio risk and expected return.
+
+## Dataset
+The project uses the 10 Industry Portfolios dataset from the Kenneth French Data Library. The dataset contains monthly returns across 10 industry portfolios.
+
+## Methods
+- Expected return calculations
+- Covariance matrix estimation
+- Global Minimum Variance Portfolio
+- Lagrange multiplier optimization
+- Efficient frontier derivation
+- Portfolio risk and return analysis
+
+## Project Structure
+- `data/`: Dataset used for analysis
+- `src/`: Python implementation
+- `notebooks/`: Jupyter notebooks and experiments
+- `figures/`: Generated plots and visualizations
+- `docs/`: Project report and planning documents
